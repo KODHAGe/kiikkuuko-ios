@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "StaticData.json",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
